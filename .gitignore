@@ -1,6 +1,5 @@
 .idea
 .idea/icard_django.iml
-*.pyc
 # Django #
 *.log
 *.pot
